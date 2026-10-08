@@ -1,0 +1,8 @@
+*.pkl
+*.bin
+*.safetensors
+wandb/
+checkpoint-*/
+.ipynb_checkpoints/
+__pycache__/
+.env
